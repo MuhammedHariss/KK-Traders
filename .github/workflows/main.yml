@@ -9,7 +9,6 @@
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
 <style>
   :root {
-    --red:   #E8181E;
     --dark:  #111111;
     --off:   #1A1A1A;
     --card:  #222222;
